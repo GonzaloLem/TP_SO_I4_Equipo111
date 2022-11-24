@@ -19,6 +19,12 @@ H- ¿Qué sucede si cada uno utiliza el push -f?
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
 
+Respuestas
+E- Solo yo(gamma) tuve problemas, Alfa y Beta no tuvieron problemas
+F- No me dejaba hacer el push(gamma)
+G- La solucion fue usar el push -f. El problema de esto es que borro lo que agregaron Alfa y Beta
+H- Hace el push ignorando si el repositorio local no esta actualizado
+I- Beta y Gamma tendrian que hacer primero un pull del repositorio y depues hacer la mdificacion de index.html
 
 ===========================================================
 Integrantes

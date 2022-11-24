@@ -1,0 +1,27 @@
+Preguntas
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+Respuestas
+A- Quedo el color Verde
+B- Quedo el color Amarrillo
+C- Quedo el color Amarrillo
+D- En el master de ALFA y BETA quedaron los favicon
+
+Preguntas
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+
+===========================================================
+Integrantes
+Rocabado Roberto
+Lemiña Gonzalo
+Tulis Curra Luis
